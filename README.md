@@ -8,6 +8,12 @@ I'm a passionate and experienced Senior Machine Learning Engineer with a strong 
 
 I thrive on transforming complex data into actionable insights and creating intelligent systems that drive innovation. I'm always eager to explore new technologies and contribute to the open-source community.
 
+### 📈 GitHub Stats
+
+[![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Witurpred64&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witurpred64&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🛠️ Technologies & Tools
 
 **Languages:** Python, C++, Go, TypeScript
@@ -29,4 +35,3 @@ I thrive on transforming complex data into actionable insights and creating inte
 [LinkedIn](https://linkedin.com/in/arthurthorne-ml)
 
 [Twitter](https://twitter.com/ArthurThorneAI)
-
