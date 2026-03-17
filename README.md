@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Witurpred64/Witurpred64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Arthur Thorne
 
-Here are some ideas to get you started:
+🚀 Senior Machine Learning Engineer | AI Architect | LLM & Scalable AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate and experienced Senior Machine Learning Engineer with a strong focus on developing and deploying cutting-edge AI solutions. My expertise lies in Large Language Models (LLMs), Computer Vision, and building robust, scalable AI infrastructure.
+
+I thrive on transforming complex data into actionable insights and creating intelligent systems that drive innovation. I'm always eager to explore new technologies and contribute to the open-source community.
+
+### 🛠️ Technologies & Tools
+
+**Languages:** Python, C++, Go, TypeScript
+
+**ML Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
+
+**Cloud & MLOps:** AWS, Docker, Kubernetes, MLflow, DVC, FastAPI
+
+**Databases:** PostgreSQL, MongoDB, Redis
+
+### 🌱 Currently Learning & Exploring
+
+- Advanced techniques in Generative AI and multimodal models.
+- Edge AI deployment strategies.
+- Quantum Machine Learning concepts.
+
+### 🤝 Connect with me
+
+[LinkedIn](https://linkedin.com/in/arthurthorne-ml)
+
+[Twitter](https://twitter.com/ArthurThorneAI)
+
